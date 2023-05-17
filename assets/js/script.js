@@ -32,3 +32,18 @@ const toggleNav = function(){
 }
 
 addEventOnElem(navToggler, "click", toggleNav);
+
+
+/**
+ * Slider Funtionality
+ */
+
+const slider = document.querySelector("[data-slider]");
+const nextBtn = document.querySelector("[data-next]");
+const prevBtn = document.querySelector("[data-prev]");
+
+
+
+/**
+ * Slider Funtionality
+ */
